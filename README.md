@@ -28,6 +28,6 @@ I will use multiple branches to work on my projects. I will have the main branch
 <p>https://www.sitepoint.com/use-git-branches-buddy/</p>
 
 # Use of .gitignore
-<p>I will use .gitignore file to indicate which files/folders to ignore and will be unique to each project i will be doing this semester</p>
+<p>I will use .gitignore file to indicate which files/folders to ignore and will be unique to each project I will be submitting this semester</p>
 
 # Storage of Credentials
