@@ -31,3 +31,4 @@ I will use multiple branches to work on my projects. I will have the main branch
 <p>I will use .gitignore file to indicate which files/folders to ignore and will be unique to each project I will be submitting this semester</p>
 
 # Storage of Credentials
+To store valuable information that i only want certain people to have access too, I will use GitHubs encrypted secrets. I will create the secrets on an organizational level so that more than one of my repositories that i have created has access to the same secret if neccesarry.
