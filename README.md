@@ -32,3 +32,17 @@ I will use multiple branches to work on my projects. I will have the main branch
 
 # Storage of Credentials
 To store valuable information that i only want certain people to have access too, I will use GitHubs encrypted secrets. I will create the secrets on an organizational level so that more than one of my repositories that i have created has access to the same secret if neccesarry.
+
+# Charts
+* Status Chart
+![image](https://user-images.githubusercontent.com/88539269/187928580-4925c61b-b338-401e-befa-c6cdfea266de.png)
+
+* Label Chart
+![image](https://user-images.githubusercontent.com/88539269/187928956-9f672948-141f-4d44-94f3-2ac9fb6ea16d.png)
+
+* Sprint Chart
+![image](https://user-images.githubusercontent.com/88539269/187929128-cac76163-9369-464d-a62d-b7f02d264b6d.png)
+
+* Burndown Chart
+![image](https://user-images.githubusercontent.com/88539269/187929287-9aa67806-422b-4461-aaaf-f2c3dfd55ac3.png)
+
